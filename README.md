@@ -28,7 +28,7 @@
 ## About Me
 
 I'm a first-year Computer Science student at the University of the Punjab, Jhelum Campus  
-CGPA: 4.00/4.00 | Graduating: 2029
+CGPA: 3.95/4.00 | Graduating: 2029
 
 I specialize in building AI-powered applications with a focus on:
 
